@@ -104,7 +104,6 @@ TgProxies/
 │       └── config-report.md
 │
 ├── LICENSE
-├── CONTRIBUTING.md
 └── README.md
 ```
 
