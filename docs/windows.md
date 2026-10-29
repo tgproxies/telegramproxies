@@ -49,9 +49,6 @@ TgProxies stores configurations in the repository's `config/` directory.
 | VMess | [`vmess.txt`](../config/vmess.txt) |
 | Shadowsocks | [`ss.txt`](../config/ss.txt) |
 | Trojan | [`trojan.txt`](../config/trojan.txt) |
-| Hysteria2 | [`hysteria2.txt`](../config/hysteria2.txt) |
-| TUIC | [`tuic.txt`](../config/tuic.txt) |
-| SOCKS | [`socks.txt`](../config/socks.txt) |
 | All configurations | [`all.txt`](../config/all.txt) |
 
 Select a protocol supported by your chosen client.
@@ -132,9 +129,6 @@ A successful connection does not guarantee that every website or application wil
 | VMess | A proxy protocol supported by compatible V2Ray/Xray clients. |
 | Shadowsocks | An encrypted proxy protocol with broad client support. |
 | Trojan | A proxy protocol designed to carry traffic through TLS-based connections. |
-| Hysteria2 | A proxy protocol based on QUIC, requiring a compatible client. |
-| TUIC | A proxy protocol based on QUIC, requiring a compatible client. |
-| SOCKS | A general-purpose proxy protocol; encryption depends on the surrounding connection and setup. |
 
 Support varies by application and version. Always verify compatibility before importing a configuration.
 
