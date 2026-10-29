@@ -81,9 +81,6 @@ TgProxies/
 │   ├── vmess.txt
 │   ├── ss.txt
 │   ├── trojan.txt
-│   ├── hysteria2.txt
-│   ├── tuic.txt
-│   ├── socks.txt
 │   └── all.txt
 │
 ├── client/
@@ -123,9 +120,6 @@ Choose a protocol to browse its configuration list.
 | ![VMess](https://img.shields.io/badge/VMess-2196F3?style=flat-square) | V2Ray proxy protocol | [📥 Open](config/vmess.txt) |
 | ![Shadowsocks](https://img.shields.io/badge/Shadowsocks-FF9800?style=flat-square) | Encrypted proxy protocol | [📥 Open](config/ss.txt) |
 | ![Trojan](https://img.shields.io/badge/Trojan-9C27B0?style=flat-square) | TLS-based proxy protocol | [📥 Open](config/trojan.txt) |
-| ![Hysteria2](https://img.shields.io/badge/Hysteria2-E91E63?style=flat-square) | QUIC-based proxy protocol | [📥 Open](config/hysteria2.txt) |
-| ![TUIC](https://img.shields.io/badge/TUIC-607D8B?style=flat-square) | QUIC-based proxy protocol | [📥 Open](config/tuic.txt) |
-| ![SOCKS](https://img.shields.io/badge/SOCKS-795548?style=flat-square) | General-purpose proxy protocol | [📥 Open](config/socks.txt) |
 | 🌐 All | Combined configuration list | [📥 Open](config/all.txt) |
 
 ### 📥 How to Use Configurations
