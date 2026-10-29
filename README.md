@@ -97,11 +97,6 @@ TgProxies/
 │   ├── android.md
 │   ├── windows.md
 │   ├── ios.md
-│   └── troubleshooting.md
-│
-├── .github/
-│   └── ISSUE_TEMPLATE/
-│       └── config-report.md
 │
 ├── LICENSE
 └── README.md
@@ -212,7 +207,7 @@ These URLs work after you create the corresponding files and push them to the `m
 </tr>
 </table>
 
-### 🪟 Windows
+### 💻 Windows
 
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 
@@ -283,37 +278,7 @@ Each protocol has its own text file.
 | `config/vmess.txt` | VMess configuration links |
 | `config/ss.txt` | Shadowsocks configuration links |
 | `config/trojan.txt` | Trojan configuration links |
-| `config/hysteria2.txt` | Hysteria2 configuration links |
-| `config/tuic.txt` | TUIC configuration links |
-| `config/socks.txt` | SOCKS configuration links |
 | `config/all.txt` | Combined configuration list |
-
-Keep the files organized, use one configuration per line where appropriate, and remove confirmed expired entries.
-
-Only publish configurations you have permission to share. Avoid committing private credentials or personal information.
-
----
-
-## 🔄 Updates and Maintenance
-
-To keep the repository useful:
-
-- Add configurations to the appropriate protocol file.
-- Remove entries confirmed to be expired.
-- Avoid duplicate configurations.
-- Verify that file links work.
-- Keep client download links pointed to official sources.
-- Document significant changes.
-
-### 📋 Example Version History
-
-| Version | Changes |
-|---|---|
-| `v1.0.0` | Initial repository structure |
-| `v1.1.0` | Additional protocol lists |
-| `v1.2.0` | Improved documentation and client resources |
-
-*These are example entries. Update them to reflect actual changes.*
 
 ---
 
