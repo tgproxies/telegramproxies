@@ -120,9 +120,6 @@ Browse the configuration files in this repository:
 | VMess | [`vmess.txt`](../../config/vmess.txt) |
 | Shadowsocks | [`ss.txt`](../../config/ss.txt) |
 | Trojan | [`trojan.txt`](../../config/trojan.txt) |
-| Hysteria2 | [`hysteria2.txt`](../../config/hysteria2.txt) |
-| TUIC | [`tuic.txt`](../../config/tuic.txt) |
-| SOCKS | [`socks.txt`](../../config/socks.txt) |
 | All configurations | [`all.txt`](../../config/all.txt) |
 
 **Important:** Not every client supports every protocol. A configuration may require a specific application or core.
