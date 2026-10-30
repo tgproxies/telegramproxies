@@ -89,6 +89,8 @@ TgProxies/
 │   ├── trojan.txt
 │   └── all.txt
 │
+├── telegram/
+│   ├── socks.txt
 ├── client/
 │   ├── apk/
 │   │   └── README.md
