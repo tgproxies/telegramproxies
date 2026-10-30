@@ -89,6 +89,10 @@ TgProxies/
 │   ├── trojan.txt
 │   └── all.txt
 │
+├── openvpn/
+│   ├── password.txt
+│   └── ...
+|
 ├── telegram/
 │   ├── socks.txt
 ├── client/
@@ -122,6 +126,7 @@ Choose a protocol to browse its configuration list.
 | ![VMess](https://img.shields.io/badge/VMess-2196F3?style=flat-square) | V2Ray proxy protocol | [📥 Open](config/vmess.txt) |
 | ![Shadowsocks](https://img.shields.io/badge/Shadowsocks-FF9800?style=flat-square) | Encrypted proxy protocol | [📥 Open](config/ss.txt) |
 | ![Trojan](https://img.shields.io/badge/Trojan-9C27B0?style=flat-square) | TLS-based proxy protocol | [📥 Open](config/trojan.txt) |
+| ![OpenVPN](https://img.shields.io/badge/OpenVPN-FFFC00?style=flat-square) | OpenVPN .ovpn Configs | [📥 Open](openvpn) |
 | 🌐 All | Combined configuration list | [📥 Open](config/all.txt) |
 
 ### 📥 How to Use Configurations
