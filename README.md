@@ -77,6 +77,12 @@ Organized configuration lists and community announcements.
 TgProxies/
 │
 ├── config/
+|   |── encrypted/
+|   |   |── vless.txt
+|   |   |── vmess.txt
+|   |   |── ss.txt
+|   |   |── trojan.txt
+|   |   |── all.txt
 │   ├── vless.txt
 │   ├── vmess.txt
 │   ├── ss.txt
